@@ -9,3 +9,14 @@
 **Link to work:** N/A
 
 ---
+
+### Round 2: February 28, Tuesday
+
+**Today's Progress**: Created a simple program that asks user to input a city name, and the program will output the correct area code. I also reviewed more HTML/CSS.
+
+**Thoughts:** I knew where I should be going with the code, but it soon got unwieldy. I had to run through the tutorial on udemy to figure out where I was overcomplicating the methods I was trying to define.
+
+**Link to work:** [Area Code Dictionary](https://github.com/spitsfire/udemy/blob/master/ruby/area_code_dictionary.rb)
+
+---
+
