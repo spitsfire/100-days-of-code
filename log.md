@@ -20,3 +20,22 @@
 
 ---
 
+### Round 3: March 03, Friday
+
+**Today's Progress**: Not a lot of time today. Continued reviewing HTML/CSS with FreeCodeCamp.
+
+**Thoughts:** N/A
+
+**Link to work:** N/A
+
+---
+
+### Round 4: March 06, Monday
+
+**Today's Progress**: Started Learn Ruby the Hard Way to review Ruby coding foundations: Exercises 0-3
+
+**Thoughts:** While Treehouse spoons feeds you and explains each step, this book's style is different. I'm not sure how I feel about doing first and getting explanations later, but I'm willing ot give it a try.
+
+**Link to work:** [Area Code Dictionary](https://github.com/spitsfire/udemy/blob/master/ruby/area_code_dictionary.rb)
+
+---
