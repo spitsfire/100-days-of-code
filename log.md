@@ -36,6 +36,16 @@
 
 **Thoughts:** While Treehouse spoons feeds you and explains each step, this book's style is different. I'm not sure how I feel about doing first and getting explanations later, but I'm willing ot give it a try.
 
-**Link to work:** [Area Code Dictionary](https://github.com/spitsfire/udemy/blob/master/ruby/area_code_dictionary.rb)
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
+
+### Round 5: March 07, Tuesday
+
+**Today's Progress**: Completed Exercises 4-6 in Learn Ruby the Hard Way
+
+**Thoughts:** N/A
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
 
 ---
