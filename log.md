@@ -49,3 +49,13 @@
 **Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
 
 ---
+
+### Round 6: March 08, Wednesday
+
+**Today's Progress**: Completed Exercises 7-11 in Learn Ruby the Hard Way
+
+**Thoughts:** I am glad I have some experience in Ruby before doing this book. I think I'd be much too frustrated starting out with this method of teaching. However, I am learning a few things here and there I didn't know before, so that's encouraging.
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
