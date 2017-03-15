@@ -59,3 +59,53 @@
 **Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
 
 ---
+
+### Round 7: March 09, Thursday
+
+**Today's Progress**: Completed Exercises 12-14 in Learn Ruby the Hard Way
+
+**Thoughts:** Whoop whoop easy Ruby review!
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
+
+### Round 8: March 10, Friday
+
+**Today's Progress**: Completed Exercises 15 & 16 in Learn Ruby the Hard Way
+
+**Thoughts:** Well this one sure made me flip many figurative tables at work. It's been awhile since I've been frustrated with Ruby, so that was a nice reality check.
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
+
+### Round 9: March 13, Monday
+
+**Today's Progress**: Completed Exercises 17-21 in Learn Ruby the Hard Way
+
+**Thoughts:** Whoop whoop Ruby review!
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
+
+### Round 10: March 14, Tuesday
+
+**Today's Progress**: Completed Exercises 24-28 in Learn Ruby the Hard Way
+
+**Thoughts:** Did pretty well on Boolean logic, though I missed three answers on the practice test.
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
+
+### Round 11: March 15, Wednesday
+
+**Today's Progress**: Completed Exercises 29-33 in Learn Ruby the Hard Way
+
+**Thoughts:** Ohhh boy! Loops and Arrays!
+
+**Link to work:** [LRTHW Exercises](https://github.com/spitsfire/learnrubythw/tree/master/exercises)
+
+---
